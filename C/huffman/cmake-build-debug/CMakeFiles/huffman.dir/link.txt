@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -dynamiclib -Wl,-headerpad_max_install_names  -o libhuffman.dylib -install_name @rpath/libhuffman.dylib CMakeFiles/huffman.dir/huffman.c.o CMakeFiles/huffman.dir/huffcode.c.o 

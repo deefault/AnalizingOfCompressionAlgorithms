@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alexandersolovyov/Downloads/huffman-master 3/huffcode.c
+huffman.h
+/Users/alexandersolovyov/Downloads/huffman-master 3/huffman.h
+stdio.h
+-
+string.h
+-
+errno.h
+-
+stdlib.h
+-
+assert.h
+-
+malloc.h
+-
+unistd.h
+-
+
+/Users/alexandersolovyov/Downloads/huffman-master 3/huffman.c
+huffman.h
+/Users/alexandersolovyov/Downloads/huffman-master 3/huffman.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+assert.h
+-
+errno.h
+-
+winsock2.h
+-
+malloc.h
+-
+netinet/in.h
+-
+
+/Users/alexandersolovyov/Downloads/huffman-master 3/huffman.h
+stdio.h
+-
+stdint.h
+-
+

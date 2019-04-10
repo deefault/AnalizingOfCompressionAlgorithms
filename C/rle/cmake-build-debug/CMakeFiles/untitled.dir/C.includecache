@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alexandersolovyov/CLionProjects/untitled/optimizedrle.c
+stdio.h
+-
+limits.h
+-
+errno.h
+-
+
+/Users/alexandersolovyov/CLionProjects/untitled/rle.c
+stdio.h
+-
+limits.h
+-
+errno.h
+-
+

@@ -1,0 +1,4 @@
+Cannot generate into C:\Users\alexandersolovyov\siacod\C\huffman
+It was created with incompatible generator 'Visual Studio 15 2017'
+
+Please either delete it manually or select another generation directory
